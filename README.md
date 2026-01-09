@@ -496,8 +496,6 @@ This project is open source and available under the [MIT License](LICENSE).
 **Karan Soni**
 
 [![Email](https://img.shields.io/badge/Email-Karankumarsoni.r%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Karankumarsoni.r@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/karankumarsoni)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/karankumarsoni)
 
 </div>
 
