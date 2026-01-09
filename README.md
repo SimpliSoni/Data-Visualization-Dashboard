@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Dashboard Preview](./docs/Complete_Dashboard.png)
+![Dashboard Preview](./docs/complete_dashboard.png)
 
 [![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.8-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
