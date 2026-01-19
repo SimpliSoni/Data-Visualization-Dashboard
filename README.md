@@ -460,17 +460,6 @@ const USE_BACKEND_API = true;
 
 ---
 
-## 📸 Screenshots
-
-<div align="center">
-
-### Full Dashboard View
-![Complete Dashboard](./docs/complete_dashboard.jpeg)
-
-</div>
-
----
-
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
